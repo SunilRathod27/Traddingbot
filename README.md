@@ -1,4 +1,4 @@
-# Binance Trading Bot
+#  Trading Bot
 
 
 > Automated Binance trading bot with trailing buy/sell strategy
