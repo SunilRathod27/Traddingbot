@@ -252,19 +252,3 @@ Or use the frontend to adjust configurations after launching the application.
 
 4. Launch and open browser `http://0.0.0.0:8080` to see the frontend
 
-## Screenshots
-
-| Frontend Mobile | Setting | Manual Trade |
-| --------------- | ------- | ------------ |
-| ![Frontend Mobile](https://user-images.githubusercontent.com/5715919/124752399-262e5f00-df6b-11eb-9dc1-e8f06b98aa9a.png) | ![Setting](https://user-images.githubusercontent.com/5715919/124752414-2890b900-df6b-11eb-90f4-7fa79a84bf1d.png) | ![Manual Trade](https://user-images.githubusercontent.com/5715919/124752425-2c244000-df6b-11eb-97d9-d81e494d7e40.png) |
-
-| Frontend Desktop                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| ![Frontend Desktop](https://user-images.githubusercontent.com/5715919/124752605-668ddd00-df6b-11eb-887b-8cf79048d798.png) |
-
-### Sample Trade
-
-| Chart                                                                                                          | Buy Orders                                                                                                          | Sell Orders                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| ![Chart](https://user-images.githubusercontent.com/5715919/111027391-192db300-8444-11eb-8df4-91c98d0c835b.png) | ![Buy Orders](https://user-images.githubusercontent.com/5715919/111027403-36628180-8444-11eb-91dc-f3cdabc5a79e.png) | ![Sell Orders](https://user-images.githubusercontent.com/5715919/111027411-4b3f1500-8444-11eb-8525-37f02a63de25.png) |
-
